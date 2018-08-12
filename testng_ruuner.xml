@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SuiteCRM Regration Automation" verbose="2">
+
+	<test name="Automation test">
+
+		<classes>
+			<class name="com.app.runners.CukesRunner"></class>
+
+
+
+		</classes>
+
+	</test>
+
+
+</suite>
